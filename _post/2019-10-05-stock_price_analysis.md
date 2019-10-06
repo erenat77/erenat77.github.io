@@ -8,7 +8,9 @@ excerpt: "Machine Learning, Stock Analysis, Data Science"
 mathjax: "true"
 ---
 # H1 Heading
+
 ## H2 Heading
+
 ### H3 Heading
 
 Here's some basic text.
