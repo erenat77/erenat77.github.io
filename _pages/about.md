@@ -1,9 +1,8 @@
 ---
-title : "About"
-permalink: _pages/about
+title: "About"
+permalink: /about/
 header:
-  image: "/images/data_sci2.jpg"
+  image: "/images/data_sci1.jpg"
 ---
 
-I'm a senior data scientist who excels at machine/deep learning, exploratory analysis
-and data visualizations.
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.

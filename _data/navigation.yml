@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://erenat77.github.io/minimal-mistakes/about
+    url: /about/
   - title: "Machine Learning"
-    url: https://erenat77.github.io/minimal-mistakes/machinelearning
+    url: /machine-learning/
   # - title: "About"
   #   url: https://erenat77.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
