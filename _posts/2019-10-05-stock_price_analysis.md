@@ -46,3 +46,4 @@ Here is an image:
 
 Here is some math:
 $$z=x+y$$
+$$z=x/y$$
