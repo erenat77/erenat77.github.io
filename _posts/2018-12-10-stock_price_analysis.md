@@ -3,7 +3,7 @@ title: "Deep learning Project : Stock price Analysis"
 date: 2018-12-10
 tags: [machine learning, deep learning, data science, neuron network, LSTM, Stock Analysis]
 header:
-  image: "/images/data_sci2.jpg"
+  image: "/images/RNN_layers.png"
 excerpt: "Machine Learning, Stock Analysis, Data Science"
 mathjax: "true"
 ---
@@ -45,6 +45,7 @@ mathjax: "true"
   * Test ==> from Jan 2019 to March 2019 (unseen data to eval the model performance)
 * Preprocess the data for input of the model. Basically, created a input including 60 days series data
 * Visualize the data over time
+![stock](/images/stock_visual.png)
 * Checked the correlation btw features and decide which feature will be used for this analysis
 * Use past 60 days data to estimate the following date **close** value.
 * Created a model with LSTM to remember long term history
@@ -74,7 +75,7 @@ model = Sequential([
     Dense(1),
 ])
 ```
-* model summary :
+* **Model summary** :
 ![model](/images/model_sum.png)
 
 * Train the model with learning rate scheduler so that I can capture the best learning rate in terms of time and accuracy
