@@ -3,7 +3,7 @@ title: "Deep learning Project : Stock price Analysis"
 date: 2018-12-10
 tags: [machine learning, deep learning, data science, neuron network, LSTM, Stock Analysis]
 header:
-  image: "/images/data_sci2.png"
+  image: "/images/data_sci2.jpg"
 excerpt: "Machine Learning, Stock Analysis, Data Science"
 mathjax: "true"
 ---
@@ -48,6 +48,7 @@ mathjax: "true"
 * Checked the correlation btw features and decide which feature will be used for this analysis
 * Use past 60 days data to estimate the following date **close** value.
 * Created a model with LSTM to remember long term history
+
 ```python
 from keras.layers import Input,Conv1D,TimeDistributed
 from keras.models import Sequential
