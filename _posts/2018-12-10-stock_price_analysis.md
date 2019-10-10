@@ -82,6 +82,6 @@ model = Sequential([
 * Train the model with the learning rate we choose
 * Test the model with unseen data and visualize the result against the real information
 
-You might reach the repository through this [link](https://github.com/erenat77/)
+You might reach the repository through this [link](https://github.com/erenat77/stock_analysis)
 
 ### Have fun!!!
