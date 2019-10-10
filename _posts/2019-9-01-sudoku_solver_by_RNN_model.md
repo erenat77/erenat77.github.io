@@ -9,7 +9,15 @@ mathjax: "true"
 ---
 Sudoku Solve Challenge from image
 
-## 1.
+## 1. Read the image and format the image as array with openCV library
+```python
+  import numpy as np
+
+  def test_func(x,y):
+    return np.sum(x,y)
+```
+
+## 2. Read the image and format the image as array with openCV library
 
 ### H3 Heading
 

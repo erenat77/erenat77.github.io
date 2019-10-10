@@ -1,15 +1,19 @@
 ---
 title: "Deep learning Project : Stock price Analysis"
-date: 2019-10-05
-tags: [machine learning, deep learning, data science, neuron network]
+date: 2018-12-10
+tags: [machine learning, deep learning, data science, neuron network, LSTM, Stock Analysis]
 header:
   image: "/images/data_sci2.jpg"
 excerpt: "Machine Learning, Stock Analysis, Data Science"
 mathjax: "true"
 ---
-# H1 Heading
+# Stock Price Analysis with LSTM
 
-## H2 Heading
+## General Information about RNN models
+*  In the last few years, there have been incredible success applying RNNs to a variety of problems: speech recognition, language modeling, translation, image captioning.
+
+<img src="{{site.url}}{{ site.baseurl }}/image/RNN-unrolled2.png" alt="RNN have loop">
+
 
 ### H3 Heading
 
