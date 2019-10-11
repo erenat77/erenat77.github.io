@@ -1,6 +1,6 @@
 ---
 title: "Deep learning Project : Stock price Analysis"
-date: 2018-12-10
+date: 2019-03-10
 tags: [machine learning, deep learning, data science, neuron network, LSTM, Stock Analysis]
 header:
   image: "/images/RNN_layers.png"
