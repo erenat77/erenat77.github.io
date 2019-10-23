@@ -1,10 +1,10 @@
 ---
-title: "Deep learning Project : Face recognition and verification"
-date: 2019-03-03
+title: "Chatbot with BABI dataset from Facebook research"
+date: 2019-07-20
 tags: [machine learning, deep learning, data science, neuron network, sudoku, Image analysis, Sequential Model]
 header:
-  image: "/images/chatbot1.png"
-excerpt: "Machine Learning, Transfer learning, VGG, Data Science, python"
+  image: "/images/chatbot0.png"
+excerpt: "Machine Learning, NLP, Chatbot, Data Science, python"
 mathjax: "true"
 ---
 Chatbot by using the babi dataset released by Facebook research and there's a link below.
