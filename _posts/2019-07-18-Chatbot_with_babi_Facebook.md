@@ -60,6 +60,9 @@ This is how the multiple layers look like.
 ![output_embedings](/images/chatbot10.png)
 
 Please check my repository at the following link.
-![Chatbot_github](https://github.com/erenat77/chatbot_with_Babi_Data_Set.git)
+[Chatbot_github](https://github.com/erenat77/chatbot_with_Babi_Data_Set.git)
+
+I also want to thank Jose and periandata for clear explanation. Some of the picture taken by his presentation.
+Recommend his course at the following link. [nlp-with-python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
 
 Have fun !
