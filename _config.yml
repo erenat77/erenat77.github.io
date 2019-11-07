@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Atmaca"
-  avatar           : "/images/data_sci2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Data Science Portfolio**"
   location         : "San jose,CA"
   email            :
@@ -136,7 +136,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
