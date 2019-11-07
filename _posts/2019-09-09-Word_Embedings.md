@@ -11,4 +11,4 @@ mathjax: "true"
 
 Please check the code at the following link
 
-[sudokuCNN_github_code](https://github.com/erenat77/word_embeddings)
+[word_embeddings_github_code](https://github.com/erenat77/word_embeddings)
